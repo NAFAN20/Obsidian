@@ -50,7 +50,7 @@ UPDATE mobil SET batas_peminjam="2024-04-24" WHERE peminjam IS NOT Null;
 
 ## Hasil
 
-![gambar](Asset32BD.png)
+![gambar](Asset/Asset32BD.png)
 
 # Mengubah nama kolom
 

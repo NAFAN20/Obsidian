@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "file": "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8e69c4ea136c27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 289.5
   },
   "right": {
     "id": "d91a2b5e0d4a4a4f",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "file": "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "file": "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP MySQL.md"
+                "file": "PRATIKUM 10/Kelompok 6 Pratikum 10.md"
               }
             }
           },
@@ -164,54 +177,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d5eb031e4d4da85",
+  "active": "c8e69c4ea136c27c",
   "lastOpenFiles": [
-    "Pemgrogram Web/PHP/AssetPHP/49.png",
-    "Pemgrogram Web/PHP/AssetPHP/25.png",
+    "PRATIKUM 10/asetz/IMG-17.jpg",
+    "PRATIKUM 10/asetz/IMG-16.jpg",
+    "PRATIKUM 10/asetz/IMG-15.jpg",
+    "PRATIKUM 10/asetz/IMG-14.jpg",
+    "PRATIKUM 10/asetz/IMG-13.jpg",
+    "PRATIKUM 10/asetz/IMG-12.jpg",
+    "PRATIKUM 10/asetz/IMG-11.jpg",
+    "PRATIKUM 10/asetz/IMG-10.png",
+    "PRATIKUM 10/asetz/IMG-9.png",
+    "PRATIKUM 10/asetz/IMG-8.png",
+    "PRATIKUM 10/asetz/IMG-7.jpg",
+    "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
+    "PRATIKUM 10/Pratikum Basis Data.md",
+    "asetz/IMG-6.jpg.md",
+    "asetz",
+    "PRATIKUM 10/asetz",
+    "PRATIKUM 10/asezt",
+    "PRATIKUM 10/New folder",
+    "Asset.md",
+    "Pemgrogram Web/HTML/Semantic HTML.md",
+    "PRAKTIKUM 10.zip",
+    "Unconfirmed 280027.crdownload",
+    "Basis Data/ALTER.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/AsetEksplorasi",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/New folder",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/AssetEkplorasi/Aset Eksplorasi CssAset Basis Data.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/AssetEkplorasi",
+    "Basis Data/Pengenalan Basis Data.md",
+    "Pemgrogram Web/PHP/PHP MySQL.md",
     "Pemgrogram Web/PHP/PHPMYADMIN.md",
     "Pemgrogram Web/PHP/PHP .md",
-    "Pemgrogram Web/PHP/AssetPHP/29.png",
-    "Pemgrogram Web/PHP/AssetPHP/28.png",
-    "Pemgrogram Web/PHP/AssetPHP/27.png",
-    "Pemgrogram Web/PHP/AssetPHP/46.png",
-    "Pemgrogram Web/PHP/AssetPHP/45.png",
-    "Pemgrogram Web/PHP/AssetPHP/44.png",
-    "Pemgrogram Web/PHP/AssetPHP/43.png",
-    "Pemgrogram Web/PHP/AssetPHP/42.png",
-    "Pemgrogram Web/PHP/AssetPHP/41.png",
-    "Pemgrogram Web/PHP/PHP MySQL.md",
     "aset/2.png.md",
     "aset",
     "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
     "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
     "Pemgrogram Web/CSS/Remedial CSS.md",
-    "Basis Data/Pengenalan Basis Data.md",
     "Basis Data/Select Lanjutan.md",
-    "Basis Data/ALTER.md",
     "Pemgrogram Web/PHP/Pengenalan PHP.md",
     "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
     "Tutorial Obsidian.md",
     "Pemgrogram Web/HTML/Remedial HTML/AsetRemedial/AsetRemedial.md",
-    "Pemgrogram Web/HTML/Remedial HTML/AsetRemedial",
-    "PRATIKUM 10/Pratikum Basis Data.md",
     "PRATIKUM 10/AssetPratikum/Asset P10.md",
     "Pemgrogram Web/CSS/Css.md",
-    "Pemgrogram Web/PHP/AssetPHP",
-    "Pemgrogram Web/PHP",
     "Pemgrogram Web/CSS/Ekplorasi CSS/Aset Eksplorasi CssAset Basis Data/Aset Eksplorasi CssAset Basis Data.md",
     "Pemgrogram Web/CSS/Ekplorasi CSS/Ekplorasi CSS.md",
-    "Pemgrogram Web/CSS/Ekplorasi CSS/Aset Eksplorasi CssAset Basis Data",
-    "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
-    "Pemgrogram Web/CSS/AsetCSS/Tanpa judul.md",
-    "Pemgrogram Web/CSS/AsetCSS/Aset Css.md",
-    "Pemgrogram Web/CSS/Ekplorasi CSS",
-    "Pemgrogram Web/CSS/Pengenalan Css.md",
-    "Pemgrogram Web/CSS/AsetCSS",
-    "Pemgrogram Web/CSS",
-    "Pemgrogram Web/HTML/Semantic HTML.md",
-    "Pemgrogram Web/HTML/Remedial HTML",
-    "Pemgrogram Web/HTML/Pengertian HTML.md",
-    "Pemgrogram Web/HTML/ASET",
     "Tanpa judul.canvas"
   ]
 }

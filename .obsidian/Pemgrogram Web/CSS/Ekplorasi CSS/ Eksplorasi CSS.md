@@ -68,7 +68,7 @@ Properti overflow: visible; dalam CSS digunakan untuk menunjukkan bahwa konten y
 
 #### Hasil Overflow Visible
 
-![[Pasted image 20240425203314.png]]
+![gambar](AsetEksplorasi/1.png.png)
 
 Dalam contoh ini, `.container` memiliki ukuran 200px x 200px dengan overflow yang diatur menjadi visible. Sedangkan `.content` memiliki ukuran 300px x 300px dengan background warna lightblue yang akan terlihat melebihi batas `.container` karena overflow diatur sebagai visible.
 #### Kesimpulan Overflow Visible
@@ -135,7 +135,7 @@ Properti overflow: hidden; dalam CSS digunakan untuk menyembunyikan konten yang 
 ```
 
 #### Hasil Overflow Hidden
-![[Pasted image 20240425203001.png]]
+![gambar](AsetEksplorasi/2.png)
 
 Dalam contoh ini, elemen `.container` memiliki ukuran 200px x 200px dengan overflow yang diatur menjadi hidden. Sedangkan elemen `.content` memiliki ukuran 300px x 300px dengan konten yang melebihi batas `.container`. Karena overflow diatur menjadi hidden, bagian konten yang melebihi batas `.container` tidak akan terlihat.
 #### Kesimpulan Overflow Hidden
@@ -280,7 +280,7 @@ Properti `overflow: auto;` dalam CSS digunakan untuk menampilkan scrollbar hanya
 }
 ```
 #### Hasil Overflow Auto
-![[Pasted image 20240423103117.png]]
+![gambar](AsetEksplorasi/3.png)
 
 Dalam program ini, kita memiliki sebuah div dengan class `.container` yang memiliki ukuran 300px x 200px dan overflow diatur sebagai auto. Ini berarti jika konten dalam `.container` melebihi ukurannya, scrollbars akan muncul. Jika tidak, maka scrollbars tidak akan muncul. Isi konten adalah sebuah daftar (unordered list) .
 #### Kesimpulan Overflow Auto
@@ -356,7 +356,7 @@ Overflow inherit adalah properti CSS yang menginstruksikan elemen untuk mewarisi
   }
 ```
 #### Hasil
-![[Pasted image 20240423194453.png]]
+![gambar](AsetEksplorasi/4.png)
 
 Dalam contoh ini, `.parent-container` memiliki properti overflow yang diatur menjadi hidden, sedangkan `.child-container` mewarisi nilai overflow dari induknya dengan menggunakan overflow: inherit. Sebagai hasilnya, overflow di `.child-container` akan sama dengan overflow di `.parent-container`, yaitu hidden. Jadi, konten dalam `.child-container` akan terpotong jika melebihi ukuran kotaknya.
 #### Kesimpulan Overflow Inherit
@@ -559,7 +559,7 @@ body {
 }
 ```
 #### Hasil
-![[Pasted image 20240428082424.png]]
+![gambar](AsetEksplorasi/5.png)
 
 #### Kesimpulan Implementasi Web 
 **Penggunaan Overflow Scroll dan Overflow Auto**: Program ini menggunakan kedua properti overflow, yaitu overflow scroll dan overflow auto. Elemen dengan kelas "scroll" menggunakan overflow scroll, sementara elemen dengan kelas "auto" menggunakan overflow auto.
