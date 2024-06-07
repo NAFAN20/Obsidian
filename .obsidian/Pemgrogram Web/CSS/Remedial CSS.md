@@ -855,11 +855,11 @@ margin-top: 150px;
 
 Secara keseluruhan, CSS ini berperan penting dalam meningkatkan pengalaman pengguna dan menampilkan konten halaman "Pesona Indonesia" dengan cara yang menarik dan informatif.
 ## Hasil
-![[AssetPesonaIndonesia.png]]
+![gambar](AsetCSS/AssetPesonaIndonesia.png)
 
-![[AssetPesonaindonesiaBerita.png]]
+![gambar](AsetCSS/AssetPesonaindonesiaBerita.png)
 
-![[AssetPesonaIndonesiaAbout.png]]
+![gambar](AsetCSS/AssetPesonaIndonesiaAbout.png)
 ## Link Video Tutorial Pesona Indonesia
 
 
