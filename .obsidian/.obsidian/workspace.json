@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7965be26eb86c6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b036e6513a096bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5eb031e4d4da85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fe4a9db5d658730",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b84e071d54043a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267e1f5b6f6df717",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9078babad11282b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pak fajar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "848dca27baa65e3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "04abcc659b7afe16",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "d91a2b5e0d4a4a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe6a833360738bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "281188b3832c3cb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0afa79918de2e0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pemgrogram Web/PHP/PHP MySQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd70fc48001727f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0564d29d7c1621e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pemgrogram Web/PHP/PHP MySQL.md"
+              }
+            }
+          },
+          {
+            "id": "77d483448ac550dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false,
+      "notion-like-tables:Create loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5d5eb031e4d4da85",
+  "lastOpenFiles": [
+    "Pemgrogram Web/PHP/AssetPHP/49.png",
+    "Pemgrogram Web/PHP/AssetPHP/25.png",
+    "Pemgrogram Web/PHP/PHPMYADMIN.md",
+    "Pemgrogram Web/PHP/PHP .md",
+    "Pemgrogram Web/PHP/AssetPHP/29.png",
+    "Pemgrogram Web/PHP/AssetPHP/28.png",
+    "Pemgrogram Web/PHP/AssetPHP/27.png",
+    "Pemgrogram Web/PHP/AssetPHP/46.png",
+    "Pemgrogram Web/PHP/AssetPHP/45.png",
+    "Pemgrogram Web/PHP/AssetPHP/44.png",
+    "Pemgrogram Web/PHP/AssetPHP/43.png",
+    "Pemgrogram Web/PHP/AssetPHP/42.png",
+    "Pemgrogram Web/PHP/AssetPHP/41.png",
+    "Pemgrogram Web/PHP/PHP MySQL.md",
+    "aset/2.png.md",
+    "aset",
+    "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
+    "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
+    "Pemgrogram Web/CSS/Remedial CSS.md",
+    "Basis Data/Pengenalan Basis Data.md",
+    "Basis Data/Select Lanjutan.md",
+    "Basis Data/ALTER.md",
+    "Pemgrogram Web/PHP/Pengenalan PHP.md",
+    "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
+    "Tutorial Obsidian.md",
+    "Pemgrogram Web/HTML/Remedial HTML/AsetRemedial/AsetRemedial.md",
+    "Pemgrogram Web/HTML/Remedial HTML/AsetRemedial",
+    "PRATIKUM 10/Pratikum Basis Data.md",
+    "PRATIKUM 10/AssetPratikum/Asset P10.md",
+    "Pemgrogram Web/CSS/Css.md",
+    "Pemgrogram Web/PHP/AssetPHP",
+    "Pemgrogram Web/PHP",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/Aset Eksplorasi CssAset Basis Data/Aset Eksplorasi CssAset Basis Data.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/Ekplorasi CSS.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/Aset Eksplorasi CssAset Basis Data",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
+    "Pemgrogram Web/CSS/AsetCSS/Tanpa judul.md",
+    "Pemgrogram Web/CSS/AsetCSS/Aset Css.md",
+    "Pemgrogram Web/CSS/Ekplorasi CSS",
+    "Pemgrogram Web/CSS/Pengenalan Css.md",
+    "Pemgrogram Web/CSS/AsetCSS",
+    "Pemgrogram Web/CSS",
+    "Pemgrogram Web/HTML/Semantic HTML.md",
+    "Pemgrogram Web/HTML/Remedial HTML",
+    "Pemgrogram Web/HTML/Pengertian HTML.md",
+    "Pemgrogram Web/HTML/ASET",
+    "Tanpa judul.canvas"
+  ]
+}
