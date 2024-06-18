@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/Pengenalan Basis Data.md",
+                "file": "Basis Data/Remedial Basis Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis Data/Pengenalan Basis Data.md",
+                "file": "Basis Data/Remedial Basis Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basis Data/Pengenalan Basis Data.md",
+                "file": "Basis Data/Remedial Basis Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basis Data/Pengenalan Basis Data.md"
+                "file": "Basis Data/Remedial Basis Data.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   },
   "active": "f18f961b1a5ae628",
   "lastOpenFiles": [
+    "Pasted image 20240618140541.png",
+    "Basis Data/Pengenalan Basis Data.md",
     "Basis Data/PDF/Pengenalan Basis Data.pdf",
     "Basis Data/ALTER.md",
     "Basis Data/PDF/ALTER.pdf",
@@ -239,12 +241,10 @@
     "Pemgrogram Web/CSS/AsetCSS/res-2.png",
     "Pemgrogram Web/PHP/PHP .md",
     "Pemgrogram Web/CSS/AsetCSS/Responsive-Css-main.zip",
-    "Pemgrogram Web/CSS/AsetCSS/Unconfirmed 487987.crdownload",
     "Pemgrogram Web/PHP/PHP MySQL.md",
     "Pemgrogram Web/HTML/Pengelanan Web.md",
     "Tanpa judul.md",
     "Pemgrogram Web/HTML/Pengertian HTML.md",
-    "Basis Data/Pengenalan Basis Data.md",
     "Basis Data/Asset/34.png",
     "Basis Data/Asset/33.png",
     "Basis Data/Asset/32.png",
