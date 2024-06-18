@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP .md",
+                "file": "Basis Data/Pengenalan Basis Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP .md",
+                "file": "Basis Data/Pengenalan Basis Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP .md",
+                "file": "Basis Data/Pengenalan Basis Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pemgrogram Web/PHP/PHP .md"
+                "file": "Basis Data/Pengenalan Basis Data.md"
               }
             }
           },
@@ -215,13 +215,36 @@
   },
   "active": "f18f961b1a5ae628",
   "lastOpenFiles": [
+    "Basis Data/PDF/Pengenalan Basis Data.pdf",
+    "Basis Data/ALTER.md",
+    "Basis Data/PDF/ALTER.pdf",
+    "Basis Data/Select Lanjutan.md",
+    "Basis Data/PDF/Select Lanjutan.pdf",
+    "Pemgrogram Web/CSS/Remedial CSS.md",
+    "Pemgrogram Web/CSS/PDF/Remedial CSS.pdf",
+    "Pemgrogram Web/CSS/AsetCSS/res-3.png",
+    "Pemgrogram Web/CSS/AsetCSS/responsive-1.png",
+    "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
+    "Pemgrogram Web/CSS/AsetCSS/Aset Css.md",
+    "Pemgrogram Web/CSS/AsetCSS/Tanpa judul.md",
+    "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
+    "Pemgrogram Web/CSS/Css.md",
+    "Pemgrogram Web/HTML/Semantic HTML.md",
+    "Pemgrogram Web/HTML/PDF/Semantic HTML.pdf",
+    "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
+    "Pemgrogram Web/CSS/PDF/Eksplorasi CSS.pdf",
+    "Pemgrogram Web/CSS/PDF/Pengenalan CSS.pdf",
+    "Pemgrogram Web/CSS/PDF/CSS BOOSTRAP.pdf",
+    "Pemgrogram Web/CSS/PDF/CSS RESPONSIVE.pdf",
+    "Pemgrogram Web/CSS/AsetCSS/res-2.png",
+    "Pemgrogram Web/PHP/PHP .md",
+    "Pemgrogram Web/CSS/AsetCSS/Responsive-Css-main.zip",
+    "Pemgrogram Web/CSS/AsetCSS/Unconfirmed 487987.crdownload",
     "Pemgrogram Web/PHP/PHP MySQL.md",
     "Pemgrogram Web/HTML/Pengelanan Web.md",
     "Tanpa judul.md",
     "Pemgrogram Web/HTML/Pengertian HTML.md",
     "Basis Data/Pengenalan Basis Data.md",
-    "Basis Data/ALTER.md",
-    "Basis Data/Select Lanjutan.md",
     "Basis Data/Asset/34.png",
     "Basis Data/Asset/33.png",
     "Basis Data/Asset/32.png",
@@ -229,38 +252,15 @@
     "Basis Data/Asset/30.png",
     "Basis Data/Asset/29.png",
     "Basis Data/Asset/28.png",
-    "Basis Data/Asset/27.png",
-    "Basis Data/Asset/26.png",
-    "Basis Data/Asset/25.png",
     "Asset 1.md",
-    "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
-    "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
-    "Pemgrogram Web/CSS/Css.md",
-    "Pemgrogram Web/CSS/Remedial CSS.md",
-    "Pemgrogram Web/CSS/New folder",
     "assets/.md",
-    "assets",
     "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
-    "Pemgrogram Web/HTML/PDF/Analisis Ujian HTML.pdf",
-    "Pemgrogram Web/HTML/Semantic HTML.md",
-    "Pemgrogram Web/HTML/PDF/PengenelanHTML.pdf",
     "Pemgrogram Web/HTML/Pengenalan HTML.md",
     "Pemgrogram Web/PHP/PHPMYADMIN.md",
-    "Pemgrogram Web/PHP/PDF/PHPMYADMIN.pdf",
-    "Pemgrogram Web/PHP/PDF/PHPMySQL.pdf",
-    "Pemgrogram Web/PHP/PHP .md",
-    "Pemgrogram Web/PHP/PDF/PHP.pdf",
-    "Pemgrogram Web/CSS/PDF",
-    "Pemgrogram Web/HTML/PDF",
-    "Pemgrogram Web/HTML/New folder",
     "Basis Data/Remedial Basis Data.md",
     "AsetRemedialBasisData/.md",
     "Pemgrogram Web/CSS/Pengenalan Css.md",
     "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
-    "PRATIKUM 10/Pratikum Basis Data.md",
-    "asetz/IMG-6.jpg.md",
-    "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
-    "Pemgrogram Web/CSS/Ekplorasi CSS/AssetEkplorasi/Aset Eksplorasi CssAset Basis Data.md",
     "Tanpa judul.canvas"
   ]
 }
