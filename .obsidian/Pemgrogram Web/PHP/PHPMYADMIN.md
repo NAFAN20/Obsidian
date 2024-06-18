@@ -16,7 +16,3 @@
 
 ## After
 ![gambar](AssetPHP9.png)
-
-# Relasi
-
-![gambar](AssetPHP/AssetPHP17.png)

@@ -19,19 +19,21 @@ untuk penggunaan awal PHP kita harus mengikuti langkah langkah berikut.
 
 2) Masuk ke directory C.
 
-   [Gambar](aset/2.png)
+ ![gambar](AssetPHP/2.png)
 
-3) Buka folder XAMPP lalu buka folder Htdocs. ![gambar](AssetPHP/2.png)
+3) Buka folder XAMPP lalu buka folder Htdocs.
+![gambar](AssetPHP/ht.png)
 
-4) Buat folder dengan nama yang anda inginkan.![Gambar](AssetPHP/4.png)
+4) Buat folder dengan nama yang anda inginkan.
+  ![Gambar](AssetPHP/4.png)
 
 5) Kemudian Masuk ke VSCode lalu klik "Open Folder" dan pilih folder yang telah anda buat.![Gambar](Assetphp/9.png)
 
-5) Buat Dokumen dengan ekstensi "php".
+6) Buat Dokumen dengan ekstensi "php".
 
    ![Gambar](AssetPHP/8.png)
 
-6) Untuk mengetikkan program php, dokemnnya selalu dibuka dengan "`<?php`" dan di akhiri dengan `?>`.
+7) Untuk mengetikkan program php, dokemnnya selalu dibuka dengan "`<?php`" dan di akhiri dengan `?>`.
 
    ![Gambar](AssetPHP/10.png)
 
@@ -277,9 +279,6 @@ operator `*` berfungsi untuk mengkali isi dari variable yang kita ketikkan, dan 
 **Kesimpulan :**
 
 operator `/` berfungsi untuk membagi isi dari variable yang kita ketikkan, dan hasilnya dapat kita tampilkan menggunakan echo.
-
-  
-  
 
 ### Perbandingan
 

@@ -101,7 +101,7 @@ value : value nilai modifikasinya
 
 hasil :
 
-![[Screenshot (22) 1.png]]
+![](AsetCSS/1.png]]
 
   
 
