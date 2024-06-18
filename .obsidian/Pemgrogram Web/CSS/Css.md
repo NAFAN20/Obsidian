@@ -864,7 +864,7 @@ Kesimpulan elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqu
     
 
 Hasil
-!()[Aset Css/Asset50CSS.png]
+![gambar](AsetCss/Asset50CSS.png)
 
 Kesimpulan kelas "box-2" menetapkan latar belakangnya menjadi warna ungu (purple) dan mengatur posisinya secara absolut,dimana elemen digeser 15 piksel dari atas dan 10 piksel dari kiri.
 

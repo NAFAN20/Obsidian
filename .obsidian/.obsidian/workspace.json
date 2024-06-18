@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/Remedial Basis Data.md",
+                "file": "Pemgrogram Web/CSS/Css.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis Data/Remedial Basis Data.md",
+                "file": "Pemgrogram Web/CSS/Css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basis Data/Remedial Basis Data.md",
+                "file": "Pemgrogram Web/CSS/Css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basis Data/Remedial Basis Data.md"
+                "file": "Pemgrogram Web/CSS/Css.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "f18f961b1a5ae628",
   "lastOpenFiles": [
+    "Aset.md",
+    "Pemgrogram Web/CSS/Css.md",
+    "Basis Data/Remedial Basis Data.md",
     "Pasted image 20240618140541.png",
     "Basis Data/Pengenalan Basis Data.md",
     "Basis Data/PDF/Pengenalan Basis Data.pdf",
@@ -230,7 +233,6 @@
     "Pemgrogram Web/CSS/AsetCSS/Aset Css.md",
     "Pemgrogram Web/CSS/AsetCSS/Tanpa judul.md",
     "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
-    "Pemgrogram Web/CSS/Css.md",
     "Pemgrogram Web/HTML/Semantic HTML.md",
     "Pemgrogram Web/HTML/PDF/Semantic HTML.pdf",
     "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
@@ -251,13 +253,11 @@
     "Basis Data/Asset/31.png",
     "Basis Data/Asset/30.png",
     "Basis Data/Asset/29.png",
-    "Basis Data/Asset/28.png",
     "Asset 1.md",
     "assets/.md",
     "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
     "Pemgrogram Web/HTML/Pengenalan HTML.md",
     "Pemgrogram Web/PHP/PHPMYADMIN.md",
-    "Basis Data/Remedial Basis Data.md",
     "AsetRemedialBasisData/.md",
     "Pemgrogram Web/CSS/Pengenalan Css.md",
     "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
