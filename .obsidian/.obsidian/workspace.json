@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f18f961b1a5ae628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pemgrogram Web/CSS/Css.md",
+                "file": "Basis Data/Select Lanjutan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pemgrogram Web/CSS/Css.md",
+                "file": "Basis Data/Select Lanjutan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pemgrogram Web/CSS/Css.md",
+                "file": "Basis Data/Select Lanjutan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pemgrogram Web/CSS/Css.md"
+                "file": "Basis Data/Select Lanjutan.md"
               }
             }
           },
@@ -213,54 +201,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f18f961b1a5ae628",
+  "active": "c1f7fb71d1c70b66",
   "lastOpenFiles": [
-    "Aset.md",
-    "Pemgrogram Web/CSS/Css.md",
-    "Basis Data/Remedial Basis Data.md",
-    "Pasted image 20240618140541.png",
-    "Basis Data/Pengenalan Basis Data.md",
-    "Basis Data/PDF/Pengenalan Basis Data.pdf",
-    "Basis Data/ALTER.md",
-    "Basis Data/PDF/ALTER.pdf",
+    "Basis Data/Asset/AssetBD17.png.~tmp",
+    "Basis Data/Asset/AssetBD17.png",
+    "Basis Data/Asset/AssetBD9.png",
+    "Basis Data/Asset/AssetPHP9.png",
+    "Basis Data/Asset/AssetBD8.png",
+    "Basis Data/Asset/AssetPHP8.png",
+    "Basis Data/Asset/AssetBD3.png",
+    "Basis Data/Asset/AssetPHP3.png",
+    "Basis Data/Asset/AssetBD2.png",
+    "Basis Data/Asset/AssetPHP2.png",
+    "Pemgrogram Web/PHP/PHPMYADMIN.md",
+    "Basis Data/Asset/AssetBD1.png",
     "Basis Data/Select Lanjutan.md",
     "Basis Data/PDF/Select Lanjutan.pdf",
-    "Pemgrogram Web/CSS/Remedial CSS.md",
-    "Pemgrogram Web/CSS/PDF/Remedial CSS.pdf",
-    "Pemgrogram Web/CSS/AsetCSS/res-3.png",
-    "Pemgrogram Web/CSS/AsetCSS/responsive-1.png",
+    "Pemgrogram Web/CSS/PDF/PDF/Remedial CSS.pdf",
+    "Pemgrogram Web/CSS/PDF/PDF/Pengenalan CSS.pdf",
+    "Pemgrogram Web/CSS/PDF/PDF/Eksplorasi CSS.pdf",
+    "Pemgrogram Web/CSS/PDF/PDF/CSS RESPONSIVE.pdf",
+    "Pemgrogram Web/CSS/PDF/PDF/CSS BOOSTRAP.pdf",
+    "Pemgrogram Web/CSS/PDF/PDF",
+    "Basis Data/Asset/PDF/Remedial CSS.pdf",
+    "Basis Data/Asset/PDF/Pengenalan CSS.pdf",
+    "Basis Data/Asset/PDF/Eksplorasi CSS.pdf",
     "Pemgrogram Web/CSS/ CSS BOOSTRAP.md",
+    "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
+    "Pemgrogram Web/CSS/Css.md",
+    "Pemgrogram Web/PHP/PHP MySQL.md",
+    "Basis Data/Pengenalan Basis Data.md",
+    "Tanpa judul.md",
+    "Basis Data/ALTER.md",
+    "Pemgrogram Web/PHP/PHP .md",
+    "Aset.md",
+    "Basis Data/Remedial Basis Data.md",
+    "Pemgrogram Web/CSS/Remedial CSS.md",
     "Pemgrogram Web/CSS/AsetCSS/Aset Css.md",
     "Pemgrogram Web/CSS/AsetCSS/Tanpa judul.md",
     "Pemgrogram Web/CSS/CSS RESPONSIVE.md",
     "Pemgrogram Web/HTML/Semantic HTML.md",
-    "Pemgrogram Web/HTML/PDF/Semantic HTML.pdf",
     "Pemgrogram Web/CSS/Ekplorasi CSS/ Eksplorasi CSS.md",
-    "Pemgrogram Web/CSS/PDF/Eksplorasi CSS.pdf",
-    "Pemgrogram Web/CSS/PDF/Pengenalan CSS.pdf",
-    "Pemgrogram Web/CSS/PDF/CSS BOOSTRAP.pdf",
-    "Pemgrogram Web/CSS/PDF/CSS RESPONSIVE.pdf",
-    "Pemgrogram Web/CSS/AsetCSS/res-2.png",
-    "Pemgrogram Web/PHP/PHP .md",
-    "Pemgrogram Web/CSS/AsetCSS/Responsive-Css-main.zip",
-    "Pemgrogram Web/PHP/PHP MySQL.md",
     "Pemgrogram Web/HTML/Pengelanan Web.md",
-    "Tanpa judul.md",
     "Pemgrogram Web/HTML/Pengertian HTML.md",
-    "Basis Data/Asset/34.png",
-    "Basis Data/Asset/33.png",
-    "Basis Data/Asset/32.png",
-    "Basis Data/Asset/31.png",
-    "Basis Data/Asset/30.png",
-    "Basis Data/Asset/29.png",
     "Asset 1.md",
     "assets/.md",
-    "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
     "Pemgrogram Web/HTML/Pengenalan HTML.md",
-    "Pemgrogram Web/PHP/PHPMYADMIN.md",
     "AsetRemedialBasisData/.md",
     "Pemgrogram Web/CSS/Pengenalan Css.md",
-    "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
     "Tanpa judul.canvas"
   ]
 }

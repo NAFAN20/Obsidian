@@ -99,13 +99,12 @@
     "//Pemgrogram Web/Pemgrogram Web/CSS/Pemgrogram Web/CSS/Ekplorasi CSS/Pemgrogram Web/CSS/Ekplorasi CSS/AssetEkplorasi",
     "//asetz",
     "//assets",
-    "//Pemgrogram Web/Pemgrogram Web/CSS",
-    "//Pemgrogram Web/Pemgrogram Web/HTML/Pemgrogram Web/HTML/PDF",
     "//Pemgrogram Web/Pemgrogram Web/CSS/Pemgrogram Web/CSS/Ekplorasi CSS",
-    "//Pemgrogram Web/Pemgrogram Web/CSS/Pemgrogram Web/CSS/AsetCSS",
     "//AsetRemedialBasisData",
     "//Basis Data",
-    "//Pemgrogram Web"
+    "//Pemgrogram Web",
+    "//Pemgrogram Web/Pemgrogram Web/HTML/Pemgrogram Web/HTML/Remedial HTML",
+    "//Pemgrogram Web/Pemgrogram Web/PHP"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
