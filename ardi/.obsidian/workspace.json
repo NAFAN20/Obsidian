@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b6fc75fc6f1494fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2832f1147169c0fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2f8be444edf106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php,/PHP/Pengenalan PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e9b73f327568100",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d55c0708cf93a48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33858fe839ea8bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c78475e14c38d7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e7661fc9a0de10b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c4fed8d5fd1a57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce0d082930cf1b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0764315b5e4e24e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "php,/PHP/Pengenalan PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0596080bea4b2635",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "php,/PHP/Pengenalan PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ac0ad2b44051193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e62bc877a15b76e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "php,/PHP/Pengenalan PHP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false
+    }
+  },
+  "active": "8b2f8be444edf106",
+  "lastOpenFiles": [
+    "basis data/praktikum/Aset/10(1).jpg",
+    "basis data/praktikum/Aset/Pegawai.jpg",
+    "basis data/praktikum/Aset/gbr3.jpg",
+    "basis data/praktikum/Aset/gbr2.jpg",
+    "basis data/praktikum/Aset/gbr1.jpg",
+    "basis data/praktikum/Aset/9.jpg",
+    "basis data/praktikum/Aset/8.jpg",
+    "basis data/praktikum/Aset/3.jpg",
+    "basis data/praktikum/Aset/4.jpg",
+    "basis data/praktikum/Aset/2.jpg",
+    "basis data/praktikum/Aset/19.jpg",
+    "basis data/praktikum/Praktikum 5.md",
+    "basis data/praktikum/Aset",
+    "basis data/praktikum",
+    "php,/PDF php/Pengenalan PHP.pdf",
+    "basis data/Remedial/Remed basdat.md",
+    "basis data/PDF basdat/Remed basdat.pdf",
+    "basis data/ASETBASISDATA/Catatan Alter.md",
+    "basis data/T1a08280",
+    "basis data/5Oa05000",
+    "basis data/Remedial/Aset remed",
+    "basis data/Remedial",
+    "basis data/Remedial.zip",
+    "basis data/Unconfirmed 402050.crdownload",
+    "praktikum/Praktikum 5.md",
+    "basis data/ASETBASISDATA/SELECT LANJUTAN.md",
+    "basis data/ASETBASISDATA/Instalasi & Query Awal Database.md",
+    "html,/HTML/Struktur Dasar HTML.md",
+    "html,/HTML/Analisis Ujian Html (remed).md",
+    "css,/CSS/Web font.md",
+    "css,/CSS/Remedial CSS.md",
+    "css,/CSS/Pengenalan CSS.md",
+    "php,/PHP/Pengenalan PHP.md",
+    "html,/HTML/pertemuan 2.md",
+    "html,/HTML/Pertemuan 1.md",
+    "html,/Aset.img.html/Aset.img.html.md",
+    "basis data/ASETBASISDATA/Praktikum 5.md",
+    "basis data/ASETBASISDATA/GROUP BY AND HAVING.md",
+    "basis data/ASETBASISDATA/Basis data.md"
+  ]
+}
