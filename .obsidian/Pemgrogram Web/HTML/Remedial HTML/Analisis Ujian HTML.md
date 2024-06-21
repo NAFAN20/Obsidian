@@ -65,15 +65,53 @@
 
 ### Analisis
 
-- `<table border="0" height="100%" width="100%">` adalah atribut yang digunakan untuk menentukan apkah tabel tersebut memiliki garis pembatas disekitar sel dan kolomnya.`Height` dan `width` adalah besar lebar dan tingginya.
-- `<td width="100%" align="=left" bgcolor=" yellow" height="50px">Flower shop</td>` `align` adalah perataan teks dalam program, `bgcolor` adalah warna baground pada teksnya
-- `<table>` adalah atribut pembuka untuk membuat table
-- `<th colspan="2"` adalah atrbut untuk menggabungkkan 2kolom/lebih
-- `<img src` digunakan untuk menambahkan gambar pada program
-- `<br>` digunakan untuk membuat baris baru
-- `<a` digunakan untuk menambahkan link halaman web
-- `<target=_blank` digunakan untuk judul pada link halaman web tersebutt
-
+- `<table border="0" height="100%" width="100%">`:
+    - **`border="0"`**: Menentukan bahwa tabel tidak memiliki garis pembatas di sekitar sel dan kolomnya.
+    - **`height="100%"`**: Menentukan tinggi tabel sebagai 100% dari kontainer induknya.
+    - **`width="100%"`**: Menentukan lebar tabel sebagai 100% dari kontainer induknya.
+- `<td width="100%" align="left" bgcolor="yellow" height="50px">Flower shop</td>`:
+    - **`width="100%"`**: Menentukan lebar sel sebagai 100% dari lebar tabel atau barisnya.
+    - **`align="left"`**: Menentukan perataan teks dalam sel menjadi rata kiri.
+    - **`bgcolor="yellow"`**: Menentukan warna latar belakang sel menjadi kuning.
+    - **`height="50px"`**: Menentukan tinggi sel sebagai 50 piksel.
+- `<table>`:
+    - Tag pembuka untuk membuat tabel.
+- `<th colspan="2">`:
+    - **`colspan="2"`**: Atribut untuk menggabungkan dua kolom atau lebih dalam sel header (th).
+- `<img src="..." alt="...">`:
+    - **`src`**: Digunakan untuk menentukan sumber gambar yang akan ditampilkan.
+    - **`alt`**: Digunakan untuk memberikan teks alternatif jika gambar tidak dapat ditampilkan.
+- `<br>`:
+    - Digunakan untuk membuat baris baru (line break).
+- `<a href="...">`:
+    - Digunakan untuk menambahkan link (tautan) ke halaman web.
+    - **`href`**: Menentukan URL tujuan tautan.
+- `<a target="_blank">`:
+    - **`target="_blank"`**: Atribut untuk membuka link di tab atau jendela baru.
+### Kesimpulan 
+- `<table border="0" height="100%" width="100%">`
+    - **`border="0"`**: Tabel tanpa garis pembatas.
+    - **`height="100%"`**: Tinggi tabel 100% dari kontainer.
+    - **`width="100%"`**: Lebar tabel 100% dari kontainer.
+- `<td width="100%" align="left" bgcolor="yellow" height="50px">Flower shop</td>`
+    - **`width="100%"`**: Lebar sel 100%.
+    - **`align="left"`**: Teks rata kiri.
+    - **`bgcolor="yellow"`**: Latar belakang kuning.
+    - **`height="50px"`**: Tinggi sel 50 piksel.
+- `<table>`
+    - Tag pembuka untuk membuat tabel.
+- `<th colspan="2">`
+    - **`colspan="2"`**: Menggabungkan dua kolom dalam sel header.
+- `<img src="..." alt="...">`
+    - **`src`**: Sumber gambar.
+    - **`alt`**: Teks alternatif jika gambar tidak tampil.
+- `<br>`
+    - Membuat baris baru.
+- `<a href="...">`
+    - Menambahkan tautan.
+    - **`href`**: URL tujuan tautan.
+- `<a target="_blank">`
+    - **`target="_blank"`**: Membuka tautan di tab/jendela baru.
 ## List Bunga
 
 ```html
@@ -252,6 +290,21 @@
 - `<a href` digunakan untuk menambakan link halaman link
 - `target=_blank` digunakan untuk menambahkan judul linknya
 
+### Kesimpulan
+
+- `<h1>`: Membuat judul besar.
+- `<table border="1">`: Membuat tabel dengan garis pembatas.
+- `<div>`: Membagi konten menjadi beberapa bagian.
+- `<img src>`: Menambahkan gambar.
+- `<ul>`: Membuat daftar tanpa urutan.
+- `<li>`: Membuat item dalam daftar.
+- `height` dan `width`: Mengatur tinggi dan lebar elemen.
+- `<br>`: Membuat baris baru.
+- `colspan`: Menggabungkan beberapa kolom dalam tabel.
+- `bgcolor`: Memberi warna latar belakang.
+- `<a href>`: Menambahkan tautan.
+- `target="_blank"`: Membuka tautan di tab baru.
+
 ## Order Bunga
 
 ```html
@@ -381,3 +434,25 @@
 - `<input type="submit"value="pesan">` digunakan untuk membua tombol submit atau tombol selesai mengisi formulir
 - `<input type="reset"value="hapus">` digunakan untuk membuat tombol hapus atau meriset semua jawaban
 - `<a href` dgunakan untuk menambakan link halaman web lain
+
+
+### Kesimpulan
+
+- `<h1>`: Membuat judul besar.
+- `<label for>`: Menghubungkan label dengan elemen input.
+- `<input type="text" required id="nama">`:
+    - `type="text"`: Input untuk teks.
+    - `required`: Input harus diisi.
+    - `id`: Identifikasi unik untuk input.
+- `<div>`: Mengelompokkan elemen HTML.
+- `<select>`: Membuat menu pilihan.
+- `<option>`: Menampilkan pilihan dalam menu.
+- `value`: Nilai yang dikirim saat formulir disubmit.
+- `<input type="radio" name="jp" id="pembayaran">`:
+    - `type="radio"`: Input untuk pilihan ganda.
+    - `id`: Identifikasi unik.
+- `<textarea name="Alamat"></textarea>`: Membuat area teks untuk alamat.
+- `<input type="checkbox">`: Membuat pilihan tunggal (checkbox).
+- `<input type="submit" value="pesan">`: Membuat tombol submit.
+- `<input type="reset" value="hapus">`: Membuat tombol reset.
+- `<a href>`: Menambahkan tautan ke halaman web lain.

@@ -4,7 +4,7 @@ Semantic HTML adalah konsep dalam pengembangan web yang berfungsi menyediakan ma
 Dalam semantic HTML, masing-masing elemen memiliki nama yang mencerminkan arti dari kontennya, bukan hanya presentasinya. Semantic membantu mesin pencari dan perangkat pembaca layar (screen reader) untuk memahami struktur dan konten dari halaman web dengan lebih maksimal. 
 
 Artinya, jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh manusia tapi juga oleh mesin, semantic HTML adalah solusi yang tepat. saya berikan contoh dari gambar berikut.
-![[Pasted image 20240506031632.png]]
+![gambar](Aset/asset23HTML.jpg)
 Mungkin kalian bertanya-tanya, “Apa perbedaan antara semantic HTML dan non-semantic HTML?” 
 
 Perbedaan keduanya cukup sederhana.
@@ -145,3 +145,30 @@ Meskipun browser web menerapkan styling pada banyak tag semantik (misalnya, teks
 Dengan kata lain, sama seperti Anda tidak akan menggunakan tag`<a>` untuk teks “non-link” hanya untuk membuatnya berwarna biru dan bergaris bawah, Anda juga tidak boleh menggunakan tag semantik lain hanya untuk tujuan gaya.
 
 Berikut beberapa contoh umum penggunaan tag semantik yang salah:
+
+1. Menggunakan tag `<h1>` hingga `<h6>` untuk teks yang bukan heading dengan tujuan untuk mengubah ukuran fontnya
+2. Menggunakan `<blockquote>` hanya untuk membuat indentasi teks yang bukan kutipan
+3. Menggunakan `<strong>` atau `<em>` hanya untuk menambahkan huruf tebal atau miring pada teks yang tidak memerlukan penekanan.
+
+> **Untuk tujuan penataan gaya, selalu gunakan CSS.**
+
+## Pertimbangkan Sarang Tag Heading Dengan Semantic HTML
+
+
+Selalu urutkan elemen header berdasarkan kepentingannya.
+
+Misalnya, semua judul H3 yang mengikuti judul H2 tertentu harus menjadi subtopik dari H2 tersebut. 
+![gambar](Aset/asset24HTML.png)
+Dengan cara ini, struktur judul menciptakan hierarki logis dari topik dalam konten Anda dan membantu pembaca dan mesin pencari lebih memahami dan menavigasi teks.
+## Jangan Hanya Menyalin Tata Letak Visual Anda
+
+Implementasi HTML Anda tidak boleh hanya menjadi duplikat tata letak visual. Sebaliknya, itu harus mengikuti struktur semantik halaman.
+
+Mari kita lihat contoh ini: 
+
+![gambar](Aset/asset25HTML.png)
+![gambar](Aset/asset)
+
+Penggunaan tag HTML di sisi kiri salah karena menunjukkan bahwa halaman tersebut berisi empat topik berbeda, bukan satu topik dan tiga subtopik, seperti yang ditunjukkan di sebelah kanan.
+
+Di sisi kanan, kami memiliki halaman yang dibuat dengan benar menggunakan HTML semantik. Meskipun ada empat bagian terpisah dalam tata letak visual halaman, tag HTML disusun berdasarkan semantik konten.

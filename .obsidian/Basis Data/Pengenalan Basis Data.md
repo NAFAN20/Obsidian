@@ -152,8 +152,19 @@ Dalam contoh tersebut, id menggunakan tipe data INT, harga menggunakan tipe data
 - ==SET: ==Mirip dengan ENUM, namun dapat menyimpan satu atau lebih nilai dari himpunan yang telah ditentukan.
     
 
-**Contoh :** CREATE TABLE contoh_tabel ( nama CHAR(50), alamat VARCHAR(100), catatan TEXT, status ENUM('Aktif', 'Non-Aktif') );
+**Contoh :** 
+```mysql
+CREATE TABLE nafan_tables (
+    nama CHAR(50),
+    alamat VARCHAR(100),
+    catatan TEXT,
+);
+```
 
+
+Hasil : 
+
+![gambar](Asset/42.png)
 ## tanggal
 
 - ==DATE== : Menyimpan nilai tanggal dengan format YYYY-MM-DD.
@@ -162,7 +173,21 @@ Dalam contoh tersebut, id menggunakan tipe data INT, harga menggunakan tipe data
 - ==TIMESTAMP: ==Sama seperti DATETIME, tetapi dengan kelebihan diatur secara otomatis saat data dimasukkan atau diubah.
     
 
-CREATE TABLE ContohTabel ( tanggal DATE, waktu TIME, datetimekolom DATETIME, timestampkolom TIMESTAMP );
+Contoh : 
+
+```mysql
+CREATE TABLE nafan_table (
+    tanggal DATE,
+    waktu TIME,
+    datetimekolom DATETIME,
+    timestampkolom TIMESTAMP
+);
+```
+
+Hasil : 
+
+![gambar](Asset/43.png)
+
 
 Dalam contoh ini, kolom _==tanggal==_ akan menyimpan nilai tanggal, _==waktu==_ menyimpan nilai waktu, ==*datetimekolom== menyimpan kombinasi tanggal dan waktu, dan *_==timestampkolom==_ akan secara otomatis diatur saat data dimasukkan atau diubah.
 
@@ -170,19 +195,61 @@ Dalam contoh ini, kolom _==tanggal==_ akan menyimpan nilai tanggal, _==waktu=
 
 - ==BOOL / BOOLEAN / TINYINT(1):== Digunakan untuk menyimpan nilai boolean, yang dapat mewakili kebenaran atau kesalahan. Representasi nilai benar adalah 1, sedangkan nilai salah direpresentasikan sebagai 0. Meskipun nilai selain 0 dianggap benar, secara umum, ketiganya seringkali digunakan secara bergantian. Seringkali, ketika Anda mendeklarasikan kolom sebagai BOOL atau BOOLEAN, MySQL mengonversinya secara otomatis menjadi TINYINT(1), yang juga dapat digunakan untuk menyimpan nilai boolean dengan 0 untuk false dan 1 untuk true.
 
-1. Menggunakan BOOLEAN sql CREATE TABLE contohTabel ( title VARCHAR(255), completed BOOLEAN ); Dalam contoh diatas, kita mendefinisikan kolom completed sebagai tipe data BOOLEAN. Ini merupakan cara yang sah dan umum digunakan di MySQL. Nilai yang dapat disimpan dalam kolom ini adalah TRUE atau FALSE, atau dalam representasi angka, 1 atau 0.
-2. Menggunakan BOOL sql CREATE TABLE contohTabel ( title VARCHAR(255), completed BOOL );
-Dalam contoh ini, kita menggunakan BOOL sebagai tipe data untuk kolom completed. Perlu dicatat bahwa MySQL secara otomatis mengonversi BOOL menjadi TINYINT(1). Oleh karena itu, pada dasarnya, ini setara dengan contoh pertama. Namun, beberapa pengembang lebih suka menggunakan BOOLEAN untuk kejelasan.
-3. Menggunakan TINYINT(1) sql CREATE TABLE contohTabel ( title VARCHAR(255), completed TINYINT(1) );
+Contoh : 
+```mysql
+CREATE TABLE tasks (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    task_name VARCHAR(100) NOT NULL,
+    completed TINYINT(1) NOT NULL DEFAULT 0
+);
+
+```
+
+![gambar](Asset/44.png)
 
 Dalam contoh ini, kita menggunakan TINYINT(1) sebagai tipe data untuk kolom completed. Ini adalah pendekatan yang valid karena MySQL mengonversi BOOL menjadi TINYINT(1) secara otomatis. Dalam hal ini, nilai yang dapat disimpan adalah 1 untuk TRUE dan 0 untuk FALSE.
 
 ## Tipe data Pilihan
 
 
-**Enum**: Menyimpan satu nilai dari daftar nilai yang ditentukan.
+### Enum 
 
-**Set**: Menyimpan beberapa nilai dari daftar nilai yang ditentukan
+Misalkan kita ingin membuat tabel `users` dengan kolom `role` yang hanya boleh memiliki beberapa peran tertentu, misalnya "admin", "editor", dan "author". Enum dapat digunakan untuk menetapkan batasan ini:
+
+Contoh : 
+
+```mysql
+CREATE TABLE users (
+id INT AUTO_INCREMENT PRIMARY KEY,
+username VARCHAR(50) NOT NULL, 
+role ENUM('admin', 'editor', 'author') NOT NULL );
+```
+
+Hasil : 
+
+![gambar](Asset/46.png)
+
+> [! Enum]- **Struktur Tabel**: Tabel `users` terdiri dari tiga kolom: `id` sebagai primary key, `username` untuk menyimpan nama pengguna, dan `role` untuk menyimpan peran pengguna yang dibatasi menjadi "admin", "editor", atau "author".
+     
+### SET 
+
+tipe data SET digunakan untuk mendefinisikan sebuah kolom yang dapat memiliki satu atau beberapa nilai dari sekumpulan nilai yang telah ditentukan. Nilai-nilai dalam tipe data SET disimpan sebagai himpunan tanpa urutan tertentu, dan setiap nilai hanya dapat muncul satu kali.
+
+Contoh : 
+```mysql
+CREATE TABLE Set_tabel(
+    id INT PRIMARY KEY,
+    preferences SET('Email', 'SMS') NOT NULL
+);
+```
+
+Hasil : 
+
+![gambar](Asset/45.png)
+
+
+>[! Set ]
+kesimpulan Preferences ada kolom dengan tipe data set yang terdapat 2 pilihan didalam nya yaitu Email dan SMS
 
 # Tabel
 
@@ -358,13 +425,13 @@ values (niali1, nilai2, nilai3);
 
 
 ```sql
-insert into Penjual
-(id_pelanggan,nama_depan,nama_belakang)
-values (5,"muh","fadil");
+	insert into Penjual
+	(id_pelanggan,nama_depan,nama_belakang)
+	values (5,"muh","fadil");
 ```
 
 ### Hasil
-![gambar](Asset/Asset11BD.png)
+![gambar](Asset/47.png)
 
 
 ### Analisis
@@ -436,7 +503,7 @@ Format :
 UPDATE [Nama_Table] SET [Nama_Kolom]="Nilai_Pengganti" WHERE kondisi;
 
 Contoh :
-UPDATE tabel_guru SET id_guru='Ganteng' WHERE id_guru;
+UPDATE Penjual SET No_Telp="083135219096" WHERE Id_Pelanggan=1;
 ```
 
 Berikut ialah contoh pengaplikasian dan hasil dari penggunaan **Update** : 
@@ -450,7 +517,7 @@ Format :
 DELETE FROM [Nama_Table] WHERE [Nama_Kolom];
 
 Contoh :
-UPDATE tabel_guru SET nama_belakang = 'Ganteng' WHERE id_guru = 2; SELECT * FROM tabel_guru;
+DELETE FROM Penjual WHERE Id_Pelanggan=5;
 
 ```
 
