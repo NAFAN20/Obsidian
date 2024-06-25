@@ -101,9 +101,14 @@
     "//assets",
     "//Pemgrogram Web/Pemgrogram Web/CSS/Pemgrogram Web/CSS/Ekplorasi CSS",
     "//AsetRemedialBasisData",
-    "//Pemgrogram Web",
+    "//Pemgrogram Web/Pemgrogram Web/HTML/Pemgrogram Web/HTML/Remedial HTML",
+    "//Spaces/Spaces/Home",
+    "//Spaces",
+    "//Rangkuman Pemgrograman Web",
+    "//Aset",
     "//Pemgrogram Web/Pemgrogram Web/HTML",
-    "//Pemgrogram Web/Pemgrogram Web/HTML/Pemgrogram Web/HTML/Remedial HTML"
+    "//Rangkuman Basis Data",
+    "//Pemgrogram Web"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
