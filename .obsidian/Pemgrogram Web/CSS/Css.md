@@ -1,21 +1,16 @@
 # Anatomi CSS
 
-## Kode Program
+![gambar](AsetCSS/Anatomi.jpg)
+## Selector
 
-```css
-p{
-color:red;
-}
-```
+Selector CSS di gunakan untuk memilih elemen HTML yang akan diberi gaya.Dengan menggunakan selector, Anda dapat menargetkan satu atau lebih elemen HTML untuk menerapkan properti CSS.
+## Property
 
-# Hasil
-![Gambar](AsetCSS/Asset1CSS.png)
+Property dalam CSS adalah karakteristik atau gaya yang diterapkan pada elemen HTML, seperti warna, ukuran font, atau margin. Properti bekerja dengan selector untuk mengatur tata letak dan penampilan elemen
 
-## Penjelasan
+## Property value
 
-1. `p` merupakan selector yang dimana selector adalah sebuah penanda yang digunakan untuk memberikan tanda terhadap tag html yang ingin di modifikasi
-2. `color` merupakan property yang di mana property digunakan untuk menambahkan atau mengatur ukuran teks, jenis font, warna teks, warna background, dan sebagainya
-3. `red` adalah nilai dari property
+Dalam CSS property value (nilai sifat) merujuk pada nilai konkret yang diberikan kepada suatu properti.
 
 # Percobaan I
 
@@ -201,7 +196,9 @@ text-indent: 10px;
 Hasil
 ![gambar](AsetCSS/Asset13CSS.png)
 
-Latter-spacing Kode Program
+Latter-spacing
+
+Kode Program
 
 ```css
 p{ 
@@ -302,7 +299,8 @@ background-position: -50px -50px;        
 Hasil
 ![gambar](AsetCSS/Asset21CSS.png)
 
-Materi Font Font-size Kode Program
+Materi Font Font-size
+Kode Program
 
 ```css
 p{ 
@@ -348,8 +346,6 @@ Hasil
 Border-Width Border-widthdigunakan untuk menentukan lebar border dari sebuah elemen.
 
 ## Border-style solid
-
-
 border-style: solid; adalah properti CSS yang mengatur gaya border menjadi garis lurus dan solid. Kode program
 
 ```css
@@ -475,8 +471,9 @@ Hover
 ```css
 button:hover{ 
 
-background-color:red; color:white; height:100px;
-
+background-color:red; 
+color:white; 
+height:100px;
 width:100px;
 
 }
@@ -492,8 +489,9 @@ Active button:active: adalah pseudo-class selector yang menargetkan tombol (butt
 ```css
 button:active{
 
-background-color:red; color:white; height:100px;
-
+background-color:red; 
+color:white; 
+height:100px;
 width:100px; }
 ```
 
@@ -513,8 +511,10 @@ Transition Penjelasan
 
 ```css
 button:hover{
-background-color:red; color:white;
-height:100px; width:100px; 
+background-color:red;
+color:white;
+height:100px; 
+width:100px; 
 transition:all 0.9s ease-in; 
 }
 ```
@@ -611,7 +611,8 @@ Flex Items Penjelasan
 
 ```css
 .box-item-1 { 
-flex-grow: 1; flex-basis: auto;
+flex-grow: 1; 
+flex-basis: auto;
 }
 ```
 
@@ -620,7 +621,9 @@ Hasil
 
 Kesimpulan flex-shrink: 1;, flex-basis: auto;, dan flex-grow: 1;, elemen tersebut akan menyusut jika perlu, ukuran awalnya akan disesuaikan dengan konten di dalamnya, dan akan memperluas untuk mengisi ruang yang tersedia dalam kontainer flex jika ada ruang tambahan.
 
-Tantangan Flexbox Penjelasan
+Tantangan Flexbox 
+
+Penjelasan
 
 1. body:
     
@@ -714,7 +717,8 @@ Elemen span memiliki font-size: 50px; untuk mengatur ukuran font menjadi 50p
 
 Sementara itu, .ajay memiliki beberapa properti seperti background-color: purple; untuk memberikan warna latar belakang tombol menjadi ungu, padding: 20px 29px; untuk memberikan padding 20px di atas dan bawah, serta 29px di kiri dan kanan tombol. Selain itu, color: orangered; mengatur warna teks tombol menjadi oranye, dan border: 2px solid orangered; memberikan border pada tombol dengan ketebalan 2px dan warna oranye. Terakhir, margin-top: 50px; memberikan jarak 50px di atas tombol, margin-left: 500px; memberikan jarak 500px dari sisi kiri tombol, dan margin-right: 40px; memberikan jarak 40px dari sisi kanan tombol.
 
-Tantangan Box Model Penjelasan
+Tantangan Box Model
+Penjelasan
 
 1. background-color: Properti ini mengatur warna latar belakang elemen. Pada bagian body, Anda mengatur latar belakang menjadi ungu (purple).
     
@@ -858,7 +862,9 @@ Kesimpulan elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqu
 ```css
     .box-2{
      background-color:purple;
-     position:absolute; top:15px; left:10px; 
+     position:absolute;
+      top:15px; 
+      left:10px; 
     }
 ```
     

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29e320812e1e75f3",
+        "id": "d758cde766c87626",
         "type": "tabs",
         "children": [
           {
-            "id": "f416c9d707b7556e",
+            "id": "cc32f312c74d9f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pemgrogram Web/HTML/Pengertian HTML.md",
+                "file": "Hansar/SELECT22/SELECT LANJUTAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pemgrogram Web/HTML/Pengertian HTML.md",
+                "file": "Hansar/SELECT22/SELECT LANJUTAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pemgrogram Web/HTML/Pengertian HTML.md",
+                "file": "Hansar/SELECT22/SELECT LANJUTAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pemgrogram Web/HTML/Pengertian HTML.md"
+                "file": "Hansar/SELECT22/SELECT LANJUTAN.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,54 +164,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f416c9d707b7556e",
+  "active": "cc32f312c74d9f78",
   "lastOpenFiles": [
-    "Pemgrogram Web/HTML/PDF/PengenelanHTML.pdf",
-    "Basis Data/Select Lanjutan.md",
-    "Basis Data/Pengenalan Basis Data.md",
-    "Rangkuman Basis Data/Rangkuman  Basiss Data.md",
-    "Basis Data/ALTER.md",
-    "Rangkuman HTML/Rangkuman HTMLL.md",
-    "Rangkuman Basis Data/Rangkuman Select Lanjutan.md",
-    "Pemgrogram Web/HTML/Semantic HTML.md",
+    "Hansar/Rangkuman Materi Basis Data/Rangkuman Basis Data.md",
+    "Hansar/SELECT22/SELECT LANJUTAN.md",
+    "Rangkuman Semua Materi/Rangkuman Basis Data/Rangkuman Materi Basis Data.md",
+    "Hansar/Rangkuman Materi Basis Data/Aset/QQ.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/BUKU NILAI - XI RPL 1 - BASIS DATA.xlsx",
+    "Hansar/Rangkuman Materi Basis Data/Aset/Unconfirmed 48767.crdownload",
+    "Hansar/Rangkuman Materi Basis Data/Aset/~$BUKU NILAI - XI RPL 1 - WEB.xlsx",
+    "Hansar/Rangkuman Materi Basis Data/Aset/BUKU NILAI - XI RPL 1 - WEB.xlsx",
+    "Hansar/Rangkuman Materi Basis Data/Aset/Unconfirmed 458281.crdownload",
+    "Hansar/Rangkuman Materi Basis Data/Aset/OO.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/MM.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/LL.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/GG.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/FF.jpg",
+    "Rangkuman Semua Materi/Rangkuman Basis Data/Rangkuman Materi Basis Data.pdf",
+    "Hansar/Rangkuman Materi Basis Data/Aset/DD.jpg",
+    "Hansar/Rangkuman Materi Basis Data/Aset/6.png",
+    "Hansar/Rangkuman Materi Basis Data/Aset/5.png",
+    "Hansar/Rangkuman Materi Basis Data/Aset/4.png",
+    "Hansar/Rangkuman Materi Basis Data/Aset/3.jpg.crdownload",
+    "Hansar/SELECT22/ASETSELECT",
+    "Hansar/SELECT22",
+    "Hansar/Rangkuman Materi HTML/Rangkuman HTML.md",
+    "Hansar/Rangkuman Materi PHP/Rangkuman PHP.md",
+    "Pemgrogram Web/PHP/PHP .md",
+    "Rangkuman Semua Materi/Rangkuman PHP/Rangkuman Materi PHP.md",
+    "PRATIKUM 10.zip",
+    "Aset/1.md",
+    "Hansar/Rangkuman Materi CSS/Rangkuman CSS.md",
+    "Rangkuman Semua Materi/Rangkuman CSS/Rangkuman Materi CSS.md",
+    "Rangkuman Semua Materi/Rangkuman HTML/Rangkuman HTMLL.md",
     "Pemgrogram Web/HTML/Pengertian HTML.md",
-    "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
-    "Rangkuman HTML/AsetRangkuman/VideoHTML.png",
-    "Rangkuman HTML/AsetRangkuman/StrukturHTML.png",
-    "Rangkuman HTML/AsetRangkuman/sematic.jpg",
-    "Rangkuman HTML/AsetRangkuman/QouteHTML.png",
-    "Rangkuman HTML/AsetRangkuman/ParagrafHTML.png",
-    "Rangkuman HTML/AsetRangkuman/asset21HTML.png",
-    "Rangkuman HTML/AsetRangkuman/asset20HTML.png",
-    "Rangkuman HTML/AsetRangkuman/asset19HTML.png",
-    "Rangkuman HTML/AsetRangkuman/asset18HTML.png",
-    "Rangkuman HTML/AsetRangkuman/asset17HTML.png",
-    "Rangkuman HTML/AsetRangkuman",
-    "Rangkuman HTML/New folder",
-    "Rangkuman Basis Data/Rangkuman Alter.md",
-    "Rangkuman HTML.md",
-    "Rangkuman PHP/Rangkuman PHP.md",
-    "Rangkuman PHP",
-    "New folder",
-    "Rangkuman CSS/Rangkuman Pemgrograman Web.md",
-    "Rangkuman CSS/Rangkuman CSS.md",
-    "Rangkuman CSS",
-    "Rangkuman CSSRangkuman Pemgrograman Web/Rangkuman CSS.md",
-    "Rangkuman Pemgrograman Web.md",
-    "Rangkuman CSSRangkuman Pemgrograman Web/Rangkuman Pemgrograman Web.md",
-    "Rangkuman Basis Data/Rangkuman Basis Data.md",
-    "Rangkuman HTML/Rangkuman HTML.md",
-    "Pemgrogram Web/CSS/Pengenalan CSS.md",
-    "Rangkuman CSSRangkuman Pemgrograman Web",
-    "Rangkuman Basis Data",
-    "Rangkuman HTML",
-    "Pemgrogram Web/CSS/PDF/Pengenalan CSS.pdf",
-    "Pemgrogram Web/CSS/Css.md",
-    "PRATIKUM 10/Kelompok 6 Pratikum 10.md",
     "Pemgrogram Web/HTML/Pengelanan Web.md",
-    "Pemgrogram Web/HTML/HTML.md",
-    "Pemgrogram Web/HTML/PDF/Analisis Ujian HTML.pdf",
-    "Pemgrogram Web/CSS/Remedial CSS.md",
+    "Pemgrogram Web/HTML/Remedial HTML/Analisis Ujian HTML.md",
+    "Hansar/Hansar.md",
+    "Basis Data/ALTER.md",
+    "Rangkuman Basis Data/Rangkuman Materi Basis Data.md",
+    "Rangkuman Semua Materi/Rangkuman Basis Data/AsetRangkumanBD/Asset Basis Data.md",
+    "Rangkuman Semua Materi/Rangkuman Basis Data/Rangkuman Basis Data.md",
+    "Rangkuman Semua Materi/Rangkuman PHP/Rangkuman PHP.md",
+    "Rangkuman CSS/Rangkuman Materi CSS.md",
+    "Rangkuman Basis Data/AsetRangkumanBD/Asset Basis Data.md",
+    "Rangkuman PHP/Rangkuman Materi PHP.md",
+    "Pemgrogram Web/PHP/PHP MySQL.md",
+    "Pemgrogram Web/PHP/PHPMYADMIN.md",
     "Tanpa judul.canvas"
   ]
 }

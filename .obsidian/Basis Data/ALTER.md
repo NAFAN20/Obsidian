@@ -27,11 +27,8 @@ ALTER TABLE nama_tabel ADD nama_kolom varchar(10) AFTER nama_kolom;
 ## Analisis
 
 1. `ALTER TABLE`: Ini menunjukkan bahwa kita sedang memodifikasi struktur dari tabel yang sudah ada.
-
 2. `mobil`: Ini adalah nama tabel yang akan kita ubah.
-
 3. `ADD batas_peminjam varchar(10)`: Ini berarti kita akan menambahkan kolom baru bernama `batas_peminjam` ke tabel `mobil`, dan kolom tersebut akan memiliki tipe karakter variabel dengan panjang maksimum 10 karakter.
-
 4. `AFTER peminjam`: Ini menunjukkan bahwa kolom baru `batas_peminjam` akan ditambahkan setelah kolom yang sudah ada yaitu `peminjam` di dalam tabel.
 
 ## Kesimpulan
@@ -77,9 +74,7 @@ ALTER TABLE mobil RENAME CHANGE batas_peminjam TO varchar(10);
 ## Analisis
 
 1. `ALTER TABLE`: Ini menunjukkan bahwa kita sedang memodifikasi struktur dari sebuah tabel.
-
 2. `mobil`: Ini adalah nama tabel yang akan kita ubah.
-
 3. `RENAME COLUMN batas_peminjam TO deadline`: Ini berarti kita akan mengubah nama kolom yang sudah ada dari `batas_peminjam` menjadi `deadline` di dalam tabel `mobil`.
 
 ## kesimpulan
@@ -110,9 +105,7 @@ ALTER TABLE data_mobil MODIFY varchar(10) DATE;
 ## Analisis
 
 1. `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.
-
 2. `mobil`: Ini adalah nama tabel yang ingin Anda ubah strukturnya.
-
 3. `MODIFY deadline DATE:` Ini adalah bagian yang melakukan perubahan. Perintah ini mengubah kolom "`deadline`" dalam tabel "`mobil`" menjadi memiliki tipe data `DATE`. Ini berarti kolom "`deadline`" sebelumnya mungkin memiliki tipe data yang berbeda, dan Anda sedang mengubahnya menjadi tipe data `DATE`.
 
 ## kesimpulan
@@ -266,6 +259,3 @@ Perintah `ALTER TABLE mobil RENAME TO data_mobil;` mengubah nama tabel "`mobil`"
 # Referensi pembahasan ALTER
 
 https://www.techonthenet.com/mysql/tables/alter_table.php
-
-INSERT INTO taabel_guru (id_guru, nama_depan, nama_belakang, mapel, jabatan, usia, tanggal_lahir) 
-VALUES (5, 'Nafan', 'Nabil', 'Rekaya Perangkat Lunak', 'Siswa', 16, '2007-08-22');

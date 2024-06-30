@@ -1038,24 +1038,20 @@ SELECT SUM(harga_rental) AS total_harga FROM mobil;
 ## Menghitung jumlah baris/data, biasanya berdasarkan kriteria tertentu (Count)
 
 ### Struktur Query
-
 ```sql
 SELECT COUNT(nama_kolom) AS [nama_alias] FROM 
 [nama_tabel];
 ```
 
-### Contoh
-
+### Query :
 ```sql
 SELECT COUNT(pemilik) AS total_pemilik FROM mobil;
 ```
 
 ### Hasil
-
 ![gambar](Asset/30.png)
 
 ### Analisis
-
 - `SELECT` digunakan untuk mengambil/menampilkan data.
 - `COUNT` digunakan untuk menghitung jumlah baris(nilai non-NULL).
 - `pemilik` nama kolom yang ingin di hitung jumlah barisnya.
@@ -1063,7 +1059,6 @@ SELECT COUNT(pemilik) AS total_pemilik FROM mobil;
 - `FROM mobil` query tersebut akan mengambil data dari tabel mobil.
 
 ### Kesimpulan
-
 `COUNT` digunakan ketika ingin menghitung jumlah baris dalam suatu kolom(atau jumlah non-NULL).
 
 ---

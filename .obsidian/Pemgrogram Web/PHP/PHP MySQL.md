@@ -46,7 +46,7 @@ if ($koneksi) {
 
 >>`''` adalah tempat untuk password username `root`. karena kosong artinya tidak ada password yang di berikan.
 
->>`'rental_nero'` adalah nama database yang ingin diakses.
+>>`'rental_nafan'` adalah nama database yang ingin diakses.
 
 >>`if ($koneksi)`memeriksa apakah variabel $koneksi berhasil mengembalikan resource koneksi (bernilai true jika berhasil).
 
@@ -62,7 +62,7 @@ if ($koneksi) {
 
 **Kesimpulan :**
 
-bertujuan untuk membuat koneksi ke database MySQL menggunakan `mysqli_connect()` dengan parameter hostname (`localhost`), username (`root`), password (kosong), dan nama database (`rental_nero`). Koneksi diperiksa dengan kondisi `if ($koneksi)`; jika koneksi berhasil, ditampilkan pesan "koneksi aman", jika gagal, ditampilkan pesan kesalahan "error, tidak bisa koneksi ke database".
+bertujuan untuk membuat koneksi ke database MySQL menggunakan `mysqli_connect()` dengan parameter hostname (`localhost`), username (`root`), password (kosong), dan nama database (`rental_nafan`). Koneksi diperiksa dengan kondisi `if ($koneksi)`; jika koneksi berhasil, ditampilkan pesan "koneksi aman", jika gagal, ditampilkan pesan kesalahan "error, tidak bisa koneksi ke database".
 
   
 
